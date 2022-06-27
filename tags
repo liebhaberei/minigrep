@@ -48,6 +48,9 @@ CheckDepInfo	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.js
 Config	src/lib.rs	/^impl Config {$/;"	c
 Config	src/lib.rs	/^pub struct Config {$/;"	s
 Minigrep	README.md	/^# Minigrep$/;"	c
+case_insensitive	src/lib.rs	/^    fn case_insensitive() {$/;"	f	module:tests
+case_sensitive	src/lib.rs	/^    fn case_sensitive() {$/;"	f	module:tests
+case_sensitive	src/lib.rs	/^    pub case_sensitive: bool,$/;"	m	struct:Config
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.17598535894874457435
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.2797684049618456168
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.931469667778813386
@@ -117,7 +120,6 @@ metadata	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/
 metadata	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 metadata	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
 new	src/lib.rs	/^    pub fn new(args: &[String]) -> Result<Config, &'static str> {$/;"	P	implementation:Config
-one_result	src/lib.rs	/^    fn one_result() {$/;"	f	module:tests
 outputs	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 path	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 path	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
@@ -159,6 +161,7 @@ rustflags	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	
 rustflags	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a
 rustflags	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
 search	src/lib.rs	/^pub fn search<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {$/;"	f
+search_case_insensitive	src/lib.rs	/^pub fn search_case_insensitive<'a>($/;"	f
 status	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.17598535894874457435
 status	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.2797684049618456168
 status	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	s	object:outputs.931469667778813386
