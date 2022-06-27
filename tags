@@ -119,7 +119,7 @@ metadata	target/debug/.fingerprint/minigrep-713b3909840d6899/lib-minigrep.json	/
 metadata	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":7309141686/;"	n
 metadata	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 metadata	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
-new	src/lib.rs	/^    pub fn new(args: &[String]) -> Result<Config, &'static str> {$/;"	P	implementation:Config
+new	src/lib.rs	/^    pub fn new(mut args: env::Args) -> Result<Config, &'static str> {$/;"	P	implementation:Config
 outputs	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 path	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 path	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
