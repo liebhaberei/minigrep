@@ -12,7 +12,11 @@
 0	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a	array:deps
 0	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n	array:deps.0
 0	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	o	array:local
+0	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	a	array:deps
+0	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n	array:deps.0
+0	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	o	array:local
 0	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	o	array:local
+0	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	o	array:local
 0	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	o	array:local
 0	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a	array:deps
 0	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n	array:deps.0
@@ -25,19 +29,24 @@
 0	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n	array:deps.0
 0	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	o	array:local
 1	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	s	array:deps.0
+1	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	s	array:deps.0
 1	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	s	array:deps.0
 1	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	s	array:deps.0
 17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 2	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	b	array:deps.0
+2	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	b	array:deps.0
 2	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	b	array:deps.0
 2	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	b	array:deps.0
 2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 3	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n	array:deps.0
+3	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n	array:deps.0
 3	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n	array:deps.0
 3	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n	array:deps.0
 931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o	object:outputs
 CheckDepInfo	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	o	object:local.0
@@ -55,7 +64,9 @@ code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"output
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.2797684049618456168
 code	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n	object:outputs.931469667778813386
 compile_kind	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+compile_kind	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 compile_kind	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+compile_kind	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 compile_kind	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 compile_kind	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 compile_kind	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -64,7 +75,9 @@ compile_kind	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.js
 compile_kind	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 compile_kind	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
 config	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+config	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 config	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+config	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 config	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 config	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 config	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -73,7 +86,9 @@ config	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/^{
 config	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 config	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
 dep_info	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	s	object:local.0.CheckDepInfo
@@ -82,7 +97,9 @@ dep_info	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/
 dep_info	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	s	object:local.0.CheckDepInfo
 deps	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a
+deps	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	a
 deps	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
+deps	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	a
 deps	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	a
 deps	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
 deps	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
@@ -91,7 +108,9 @@ deps	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/^{"r
 deps	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a
 deps	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
 features	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	s
+features	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	s
 features	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	s
+features	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	s
 features	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	s
 features	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	s
 features	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	s
@@ -101,7 +120,9 @@ features	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.j
 features	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	s
 filename	src/lib.rs	/^    pub filename: String,$/;"	m	struct:Config
 local	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a
+local	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	a
 local	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
+local	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	a
 local	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	a
 local	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
 local	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
@@ -111,7 +132,9 @@ local	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json
 local	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
 main	src/main.rs	/^fn main() {$/;"	f
 metadata	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+metadata	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 metadata	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+metadata	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 metadata	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 metadata	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 metadata	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -122,7 +145,9 @@ metadata	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/
 new	src/lib.rs	/^    pub fn new(mut args: env::Args) -> Result<Config, &'static str> {$/;"	P	implementation:Config
 outputs	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 path	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+path	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 path	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+path	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 path	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 path	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 path	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -131,7 +156,9 @@ path	target/debug/.fingerprint/minigrep-97684bd3fda5b2b3/lib-minigrep.json	/^{"r
 path	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
 path	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
 profile	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+profile	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 profile	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+profile	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 profile	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 profile	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 profile	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -142,7 +169,9 @@ profile	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^
 query	src/lib.rs	/^    pub query: String,$/;"	m	struct:Config
 run	src/lib.rs	/^pub fn run(config: Config) -> Result<(), Box<dyn Error>> {$/;"	f
 rustc	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+rustc	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 rustc	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+rustc	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 rustc	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 rustc	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 rustc	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
@@ -152,7 +181,9 @@ rustc	target/debug/.fingerprint/minigrep-ae03ccafd4582086/test-bin-minigrep.json
 rustc	target/debug/.fingerprint/minigrep-b53fa214d8c3312b/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
 rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	n
 rustflags	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	a
+rustflags	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	a
 rustflags	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	a
+rustflags	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	a
 rustflags	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	a
 rustflags	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
 rustflags	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	a
@@ -176,7 +207,9 @@ success	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"out
 success	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	b	object:outputs.931469667778813386
 successes	target/.rustc_info.json	/^{"rustc_fingerprint":17285411922454117443,"outputs":{"2797684049618456168":{"success":false,"sta/;"	o
 target	target/debug/.fingerprint/minigrep-19adeee051e95e4c/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1021633075/;"	n
+target	target/debug/.fingerprint/minigrep-343f01878d59d039/test-bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":1772990318/;"	n
 target	target/debug/.fingerprint/minigrep-5d949d67c3b393d7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":7309141686/;"	n
+target	target/debug/.fingerprint/minigrep-600e44c7cac97d54/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1772990318/;"	n
 target	target/debug/.fingerprint/minigrep-69558d40e4641cb6/test-lib-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":10552147211023877901,"profile":1021633075/;"	n
 target	target/debug/.fingerprint/minigrep-6a3ce4971f4949f7/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
 target	target/debug/.fingerprint/minigrep-70841e0e67d344ae/bin-minigrep.json	/^{"rustc":15069735523673833430,"features":"[]","target":13427800116762590181,"profile":9251013656/;"	n
